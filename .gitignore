@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.netlify/
+.env
+.env.local
+.DS_Store
+
+# Cloudflare build output
+.open-next/
+.wrangler/
+.dev.vars
