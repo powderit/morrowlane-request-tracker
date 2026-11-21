@@ -8,5 +8,13 @@
     "directory": ".open-next/assets",
     "binding": "ASSETS"
   },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "morrowlane-requests",
+      "database_id": "d87a934d-b287-4721-b35e-6083fa958b46",
+      "migrations_dir": "migrations"
+    }
+  ],
   "observability": { "enabled": true }
 }
